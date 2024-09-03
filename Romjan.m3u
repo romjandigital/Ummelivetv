@@ -1,6 +1,9 @@
 #EXTM3U    
 
-#EXTINF:-1 tvg-group="Bangladeshi" tvg-logo="", SHOMOY TV
+#EXTINF:-1 tvg-group="Bangladeshi"tvg-logo="", SHOMOY TV
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
-#EXTINF:-1 tvg-group="Bangladeshi" tvg-logo="",Jamunma tv
+#EXTINF:-2 tvg-group="Bangladeshi"tvg-logo="",Jamunma tv
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+#EXTINF:-3 tvg-group="Bangladeshi"tvg-logo="",Tspotrs
+https://ythls.armelin.one/channel/UC2t9imwIR7xlDfma3CmRKJQ.m3u8
+
